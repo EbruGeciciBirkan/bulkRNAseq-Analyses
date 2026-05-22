@@ -17,7 +17,7 @@ The cohort label was used as the class label in the classification task.
 ### 2. scRNA-seq Analysis Methods Used:
 1. scMulan (version 1.0) (https://github.com/SuperBianC/scMulan)
 2. scGPT (version 0.2.1) (https://github.com/bowang-lab/scGPT)
-3. SCimilarity (version=0.4.1) (https://github.com/Genentech/scimilarity)
+3. SCimilarity (version 0.4.1) (https://github.com/Genentech/scimilarity)
 
 Files containing the results obtained with these methods are located under embeddings.
 
