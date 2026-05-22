@@ -8,8 +8,8 @@ We used a dataset created for the Cancer Genome Atlas (TCGA) project, which is a
 The TCGA dataset contains genetic, clinical, and pathological data for over 10,000 patients with 33 different cancer types (also known as the cohort). 
 
 ### scRNA-seq Analysis Methods Used:
-1. scMulan (https://github.com/SuperBianC/scMulan)
-2. scGPT (https://github.com/bowang-lab/scGPT)
+1. scMulan (version 1.0) (https://github.com/SuperBianC/scMulan)
+2. scGPT (version 0.2.1) (https://github.com/bowang-lab/scGPT)
 3. SCimilarity (version=0.4.1) (https://github.com/Genentech/scimilarity)
 
 Files containing the results obtained with these methods are located under embeddings.
