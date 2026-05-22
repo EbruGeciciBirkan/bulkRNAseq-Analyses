@@ -10,7 +10,7 @@ The TCGA dataset contains genetic, clinical, and pathological data for over 10,0
 ### scRNA-seq Analysis Methods Used:
 1. scMulan (https://github.com/SuperBianC/scMulan)
 2. scGPT (https://github.com/bowang-lab/scGPT)
-3. SCimilarity (https://github.com/Genentech/scimilarity)
+3. SCimilarity (version=0.4.1) (https://github.com/Genentech/scimilarity)
 
 Files containing the results obtained with these methods are located under embeddings.
 
