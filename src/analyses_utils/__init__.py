@@ -1,5 +1,8 @@
 
 from .measure_random_forest_performance import measure_random_forest_performance
+from .measure_logistic_regression_performance import measure_logistic_regression_performance
+from .measure_support_vector_machine_performance import measure_svm_performance
+from .measure_xgboost_performance import measure_xgb_performance
 from .train_one_epoch import train_one_epoch
 from .loss_function_plot import loss_function_plot
-from. embedding_plots import embedding_plots
+from .embedding_plots import embedding_plots
